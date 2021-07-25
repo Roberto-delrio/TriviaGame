@@ -1,0 +1,26 @@
+start Menu (dota menu, valorant menu (need graphic to hold attention, character that you can edit*))
+	join/Create Game (determines if Singleplayer/multiplayer) 
+	Custom*
+	Settings
+	Store*
+	Inventory/customize*
+	Quit/Exit
+
+Trivia Formats
+Teams (Dozen Trivia Style) (drafting)*
+SinglePlayer (deathmatch- faster answer gets more points) (1v1)
+	typing in the answer, lobby votes
+
+Coding Questions 
+for Singleplayer, setup questions by category, would randomly select a question in that category
+
+
+Category
+	Sports
+		Hockey
+		Soccer
+		Football
+	Movies
+		MCU
+		Star Wars
+	Books
