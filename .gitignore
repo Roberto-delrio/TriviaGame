@@ -73,6 +73,10 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+#Ignore Other files that are not necessary
+Binaries/*
+Intermediate/*
+
 #Other stuff that needs to get ignored
 *.VC.db
 Trivia/.vs/Trivia/v16/Browse.VC.db
