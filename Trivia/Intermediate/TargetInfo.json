@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Trivia",
+			"Path": "C:\\Users\\rawri\\Desktop\\GitProjects\\TriviaGame\\Trivia\\Source\\Trivia.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TriviaEditor",
+			"Path": "C:\\Users\\rawri\\Desktop\\GitProjects\\TriviaGame\\Trivia\\Source\\TriviaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

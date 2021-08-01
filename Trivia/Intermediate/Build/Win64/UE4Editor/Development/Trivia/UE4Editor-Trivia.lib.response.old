@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Trivia.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\rawri\Desktop\GitProjects\TriviaGame\Trivia\Intermediate\Build\Win64\TriviaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\rawri\Desktop\GitProjects\TriviaGame\Trivia\Intermediate\Build\Win64\UE4Editor\Development\Trivia\Trivia.cpp.obj"
+"C:\Users\rawri\Desktop\GitProjects\TriviaGame\Trivia\Intermediate\Build\Win64\UE4Editor\Development\Trivia\TriviaGameModeBase.cpp.obj"
+"C:\Users\rawri\Desktop\GitProjects\TriviaGame\Trivia\Intermediate\Build\Win64\UE4Editor\Development\Trivia\Trivia.init.gen.cpp.obj"
+"C:\Users\rawri\Desktop\GitProjects\TriviaGame\Trivia\Intermediate\Build\Win64\UE4Editor\Development\Trivia\TriviaGameModeBase.gen.cpp.obj"
+"C:\Users\rawri\Desktop\GitProjects\TriviaGame\Trivia\Intermediate\Build\Win64\UE4Editor\Development\Trivia\Default.rc2.res"
+/OUT:"C:\Users\rawri\Desktop\GitProjects\TriviaGame\Trivia\Intermediate\Build\Win64\UE4Editor\Development\Trivia\UE4Editor-Trivia.lib"
+/INCLUDE:IMPLEMENT_MODULE_Trivia

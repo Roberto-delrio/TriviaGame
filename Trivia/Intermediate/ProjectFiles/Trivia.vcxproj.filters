@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Trivia.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{10B32A26-0BF4-4153-8F81-C666E77C4B79}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Trivia.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TriviaEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5D61A7AB-FDF5-48A4-9425-EDFB6CB4AFC0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Trivia">
+      <UniqueIdentifier>{C3C94A8F-32FF-40D6-9494-8D4DE4393BBE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Trivia\RandomClass.cpp">
+      <Filter>Source\Trivia</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Trivia\RandomClass.h">
+      <Filter>Source\Trivia</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Trivia\Trivia.Build.cs">
+      <Filter>Source\Trivia</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Trivia\Trivia.cpp">
+      <Filter>Source\Trivia</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Trivia\Trivia.h">
+      <Filter>Source\Trivia</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Trivia\TriviaGameModeBase.cpp">
+      <Filter>Source\Trivia</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Trivia\TriviaGameModeBase.h">
+      <Filter>Source\Trivia</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
